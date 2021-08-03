@@ -1,4 +1,4 @@
-package degToRad
+package main
 
 import (
 	"fmt"
